@@ -1,13 +1,14 @@
 # Ref
 
-高效能Python 第七章 - 編譯成C
-
-[【工程師實用外掛】開啟 Cython，讓你的 Python 運算速度提升 36 倍！](https://buzzorange.com/techorange/2019/08/05/cython-raise-speed-of-python/)
+Book - 高效能Python 第七章 - 編譯成C
 
 [Cython documentation](https://cython.readthedocs.io/en/latest/src/tutorial/cython_tutorial.html#the-basics-of-cython)
 
-
 local path : `/Users/YuLong/Desktop/Working_Area/ml-training-camp/chap02/target_encoding/cython_imp`
+
+# Third Party Introduction
+
+[【工程師實用外掛】開啟 Cython，讓你的 Python 運算速度提升 36 倍！](https://buzzorange.com/techorange/2019/08/05/cython-raise-speed-of-python/)
 
 # SOP
 
